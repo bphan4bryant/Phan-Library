@@ -1,5 +1,5 @@
-#Programmer: Bryant Phan
-#Battle Scenario 
+#Author: Bryant Phan
+#Text-based adventure set in dungeon.
 import random
 #Variables
 monstHP = 125
