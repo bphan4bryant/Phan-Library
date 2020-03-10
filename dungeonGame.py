@@ -1,5 +1,5 @@
 #File Name: dungeonGameApp.py
-#This is the application which runs dungeonGame
+#This is a short text-based adventure set in a dungeon.
 #Author: Bryant P.
 
 import random
